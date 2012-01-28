@@ -15,6 +15,6 @@
 /tmp
 
 # Ignore IDEA project config files
-/*.iml
-/*.iws
-/*.ipr
+*.iml
+*.iws
+*.ipr
