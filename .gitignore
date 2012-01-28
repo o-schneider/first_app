@@ -13,3 +13,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore IDEA project config files
+/*.iml
+/*.iws
+/*.ipr
